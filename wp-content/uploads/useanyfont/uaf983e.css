@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'circular-std';
+					src: url('5845Circular-Std.woff2') format('woff2'),
+						url('5845Circular-Std.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.circular-std{font-family: 'circular-std' !important;}
+
+		
